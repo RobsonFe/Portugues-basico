@@ -91,3 +91,41 @@ Verbos podem ser classificados de acordo com a necessidade de objetos (direto ou
 - **Verbo transitivo direto**: Precisa de objeto direto (ex.: Eu vi o filme).
 - **Verbo transitivo indireto**: Precisa de objeto indireto com preposição (ex.: Eu gosto de pizza).
 - **Verbo intransitivo**: Não precisa de objeto (ex.: Eu corri).
+
+<hr>
+
+### **1. Discurso Direto**
+No **discurso direto**, as palavras de quem está falando são **reproduzidas exatamente como foram ditas**, sem mudar nada.
+
+- Exemplo:
+  - **João disse**: "Eu vou ao mercado."  
+    (Aqui, vemos as palavras exatas do João. O que ele falou foi reproduzido diretamente, com as mesmas palavras.)
+
+No discurso direto, geralmente usamos dois pontos para introduzir o que foi dito e as palavras são entre aspas. O foco está na **fala da pessoa**.
+
+### **2. Discurso Indireto**
+No **discurso indireto**, as palavras de quem está falando são **repassadas de outra forma**, ou seja, não usamos as palavras exatas da pessoa, mas **interpretamos** o que foi dito.
+
+- Exemplo:
+  - **João disse que iria ao mercado.**  
+    (Aqui, não usamos as palavras exatas de João. A frase foi adaptada para se tornar parte da nossa fala, ou seja, estamos apenas transmitindo o que João falou.)
+
+No discurso indireto, o que a pessoa disse vira uma **informação** que passa de uma pessoa para outra, mas de forma **indireta**, sem as aspas.
+
+### **Diferença Principal:**
+- **Discurso direto**: Fala da pessoa é usada **exatamente** como foi dita (ex.: João disse: "Vou ao mercado").
+- **Discurso indireto**: Fala da pessoa é **reformulada** ou **interpretada** (ex.: João disse que iria ao mercado).
+
+### **Mais exemplos para ficar mais claro:**
+
+- **Discurso Direto**:  
+  **Maria falou**: "Eu adoro sorvete!"  
+  (Aqui, Maria está falando diretamente, e usamos as palavras dela.)
+
+- **Discurso Indireto**:  
+  **Maria falou que adorava sorvete.**  
+  (Agora, a fala dela foi transformada, ela disse a mesma coisa, mas não usamos as palavras dela diretamente.)
+
+### Resumo:
+- **Discurso direto**: A fala da pessoa é reproduzida exatamente como foi dita, com **aspas**.
+- **Discurso indireto**: A fala da pessoa é **adaptada** para a nossa maneira de contar, sem **aspas**.
