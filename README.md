@@ -129,3 +129,143 @@ No discurso indireto, o que a pessoa disse vira uma **informação** que passa d
 ### Resumo:
 - **Discurso direto**: A fala da pessoa é reproduzida exatamente como foi dita, com **aspas**.
 - **Discurso indireto**: A fala da pessoa é **adaptada** para a nossa maneira de contar, sem **aspas**.
+
+<hr>
+
+### 1. **Concordância Verbal**
+A **concordância verbal** é quando o **verbo** precisa concordar com o **sujeito** da frase em **pessoa** (1ª, 2ª, 3ª pessoa) e **número** (singular ou plural).
+
+#### Como funciona:
+- O **verbo** se ajusta ao **sujeito**, ou seja, se o sujeito está no **singular**, o verbo vai para o **singular**. Se o sujeito está no **plural**, o verbo vai para o **plural**.
+- Além disso, o verbo também precisa se ajustar à **pessoa** (quem está falando, para quem se fala e quem está sendo falado).
+
+#### Exemplos:
+- **Eu** (1ª pessoa do singular) **falo** (verbo no singular).
+- **Nós** (1ª pessoa do plural) **falamos** (verbo no plural).
+- **Eles** (3ª pessoa do plural) **falam** (verbo no plural).
+
+Então, o verbo sempre "segue" o sujeito!
+
+**Exemplo de concordância verbal**:
+- **O menino** (singular) **corre** (singular).
+- **Os meninos** (plural) **correm** (plural).
+
+#### Resumo:
+- **Concordância verbal**: O verbo concorda com o **sujeito** em **pessoa** e **número**.
+
+---
+
+### 2. **Concordância Nominal**
+A **concordância nominal** é quando o **adjetivo**, o **artigo** ou qualquer outra palavra que qualifique o **substantivo** precisa concordar com ele em **gênero** (masculino ou feminino) e **número** (singular ou plural).
+
+#### Como funciona:
+- O **adjetivo** (que descreve o substantivo) e o **artigo** (que acompanha o substantivo) devem **concordar** com o substantivo em **gênero** (masculino ou feminino) e **número** (singular ou plural).
+
+#### Exemplos:
+- **O cachorro** (masculino, singular) é **amigo** (masculino, singular).
+- **A cachorrinha** (feminino, singular) é **amiga** (feminino, singular).
+- **Os cachorros** (masculino, plural) são **amigos** (masculino, plural).
+- **As cachorrinhas** (feminino, plural) são **amigas** (feminino, plural).
+
+Aqui, o **adjetivo** e o **artigo** se ajustam ao **substantivo**!
+
+**Exemplo de concordância nominal**:
+- **A linda casa** (a casa = feminino, singular, linda = feminino, singular).
+- **Os belos quadros** (os quadros = masculino, plural, belos = masculino, plural).
+
+#### Resumo:
+- **Concordância nominal**: O **adjetivo** e o **artigo** devem concordar com o **substantivo** em **gênero** (masculino ou feminino) e **número** (singular ou plural).
+
+---
+
+### Resumo de tudo:
+- **Concordância verbal**: O **verbo** concorda com o **sujeito** em **pessoa** e **número** (singular/plural).
+- **Concordância nominal**: O **adjetivo** e o **artigo** concordam com o **substantivo** em **gênero** e **número**.
+
+<hr>
+
+### O que é a crase?
+A **crase** acontece quando há a junção da **preposição "a"** com o **artigo feminino "a" ou "as"**. A crase é marcada pelo **acento grave (à)** e acontece em situações específicas.
+
+#### Como funciona:
+- **Preposição**: A preposição "a" é uma palavra que indica uma relação entre dois termos da frase, como por exemplo: **ir a** algum lugar, **gostar de** algo, **assistir a** algo.
+- **Artigo feminino**: O artigo feminino é a palavra que acompanha os nomes femininos, como em **a casa**, **a menina**, **as flores**.
+- Quando há a junção da preposição "a" com o artigo feminino "a" ou "as", usamos a **crase**.
+
+#### Exemplo:
+- **Vou à escola.**  
+Aqui, temos a junção da preposição "a" (de **ir a**) com o artigo feminino "a" (de **a escola**). Portanto, usamos a **crase**: **à**.
+
+### Quando usar a crase?
+Aqui estão as principais regras para saber quando usar a crase:
+
+---
+
+### **1. Antes de palavras femininas**
+A crase é usada **antes de palavras femininas**.
+
+- **Exemplo**: Eu vou **à** escola (porque "escola" é uma palavra feminina).
+- **Exemplo**: Ela foi **à** praia (porque "praia" é uma palavra feminina).
+
+---
+
+### **2. Antes de locuções prepositivas, conjuntivas e adverbiais femininas**
+A crase também ocorre em **locuções** (duas ou mais palavras que formam um conjunto de sentido), quando elas exigem a preposição "a" e têm um substantivo feminino.
+
+- **Locuções prepositivas**: A crase é usada quando a locução tem a preposição "a" e o segundo termo é feminino.
+  - **Exemplo**: Ela vai **à** medida que melhora.
+- **Locuções conjuntivas**: Quando a crase aparece em uma locução conjuntiva com preposição.
+  - **Exemplo**: **À medida que** o tempo passa, ficamos mais tranquilos.
+- **Locuções adverbiais**: Locuções adverbiais femininas também exigem crase.
+  - **Exemplo**: Ela mora **à** beira da estrada.
+
+---
+
+### **3. Antes de pronome possessivo feminino**
+Quando o pronome possessivo for feminino, a crase também é usada.
+
+- **Exemplo**: Ela se referiu **à** sua amiga.
+- **Exemplo**: Fui **à** minha casa.
+
+---
+
+### Quando **não** usar a crase:
+Agora, é importante saber **quando não** usar a crase. Aqui estão alguns casos:
+
+---
+
+### **1. Antes de palavras masculinas**
+A crase **não** é usada antes de palavras masculinas, porque não há a junção de preposição com artigo feminino.
+
+- **Exemplo**: Eu vou **a** pé (não é necessário crase, pois "pé" é masculino).
+- **Exemplo**: Vou **a** escola de manhã (não usamos crase, porque "escola" tem artigo feminino, mas não temos a preposição "a").
+
+---
+
+### **2. Antes de verbos**
+Não usamos crase antes de verbos, porque verbos não têm artigo.
+
+- **Exemplo**: Eu gosto **de** estudar (não usamos crase antes do verbo "estudar").
+- **Exemplo**: Ele vai **a** correr para o trabalho.
+
+---
+
+### **3. Antes de pronomes pessoais, de tratamento, indefinidos e demonstrativos**
+Não se usa crase antes de pronomes pessoais, de tratamento, indefinidos ou demonstrativos.
+
+- **Exemplo**: Ela se referiu **a** ela mesma (não usa crase com o pronome pessoal).
+- **Exemplo**: Ele foi **a** aquele lugar.
+
+---
+
+### Como saber se há crase? **Dica prática**:
+Uma forma simples de verificar se deve usar a crase é tentar substituir a palavra feminina por uma masculina. Se você conseguir usar a preposição "a" com um **artigo masculino "o"** e a frase continuar fazendo sentido, então deve haver crase.
+
+- **Exemplo**: "Vou **à** escola." (substituindo "escola" por uma palavra masculina: "Vou **ao** mercado").
+- Se funcionar a substituição, então é **à**.
+
+---
+
+### Resumo sobre a crase:
+- Usamos **crase (à)** quando há **a junção da preposição "a"** com o **artigo feminino "a" ou "as"**.
+- **Não usamos crase** antes de palavras masculinas, verbos, pronomes pessoais e demonstrativos.
